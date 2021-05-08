@@ -35,6 +35,7 @@
     <!-- If you choose to define initial pose here -->
     <param name="initial_pose_x" value="0"/>
     <param name="initial_pose_y" value="0"/>
+    <param name="initial_pose_a" value="-1.5708"/>
   </node>
 
   <!-- Move Base -->
